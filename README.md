@@ -1,23 +1,27 @@
 # 👋 Bienvenue sur le profil d'Abdel Kader LAMIDI
 
-## 🚀 Data Analyst | BI Engineer | Python | SQL | Alteryx | SAS
+##  Data Analyst | BI Engineer | Python | SQL | Alteryx | SAS
 
-# À PROPOS
+# À PROPOS.
+
 En tant que Data Analyst puis Engineer BI, je combine une forte expertise en analyse de données avec des compétences
 techniques en ingénierie.
 Mon parcours a débuté par une alternance de deux ans en tant que Data Analyst, où j'ai développé mon expertise dans
-la création de tableaux de bord avec Power BI et la gestion de bases de données avec des outils comme ** Alteryx, SAS,
-SQL et Python** .
+la création de tableaux de bord avec Power BI et la gestion de bases de données avec des outils comme Alteryx, SAS,
+SQL et Python.
+
 Cette double compétence me permet d'avoir une vision complète des projets data. Je peux à la fois créer et maintenir
 des solutions techniques avec des outils comme Alteryx, SAS, SQL et Python, tout en réalisant des analyses poussées
 avec des outils de visualisation comme Power BI et Tableau . Cette polyvalence me permet d'aborder chaque défi en
 alliant parfaitement l'aspect technique et l'aspect analytique.
-Mes domaines d'expertise :
-La conception de solutions pour l'extraction, la transformation et le chargement de données, facilitant leur intégration
+
+🧠 Mes domaines d'expertise :
+-  La conception de solutions pour l'extraction, la transformation et le chargement de données, facilitant leur intégration
 et leur analyse ( Alteryx, SAS, SQL, Python, R studio)
-La création de visualisations de données et de tableaux de bord interactifs avec Power BI ou Tableau pour faciliter la
+-  La création de visualisations de données et de tableaux de bord interactifs avec Power BI ou Tableau pour faciliter la
 prise de décision.
-Mon approche :
+
+🚀 Mon approche :
 Ma double compétence me permet d'allier rigueur technique (Alteryx, SAS, SQL, Python, R) et vision analytique (Power
 BI, Tableau) pour livrer des solutions robustes et à fort impact.
 J'accorde une grande importance à la compréhension des besoins métiers pour m'assurer que les solutions
