@@ -2,7 +2,7 @@
 
 ## 💡 Data Analyst | BI Engineer | Python | SQL | Alteryx | SAS
 
-# 🌟 À PROPOS.
+### 🌟 À PROPOS.
 
 En tant que Data Analyst puis Engineer BI, je combine une forte expertise en analyse de données avec des compétences
 techniques en ingénierie.
