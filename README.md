@@ -64,6 +64,7 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
 | **Etude Netflix** | Analyse des comportements des utilisateurs Netflix | Python, Statistique | [Lien vers le dépôt du Projet Netflix](https://colab.research.google.com/drive/1i9xw1_TFlopdLrLWujx0VTn3wwfWgw-T) |
+| **Etude de ventes des Jeux video** | Analyse des ventes des jeux videos | Python, Statistique | [Lien vers le dépôt du Projet de ventes des jeux videos](https://colab.research.google.com/drive/1Btqg8ypQS9P1a7LUTcpP5NLQEuu162jT)|
 | **Pauvreté en France** | Création d'un tableau de bord interactif pour suivre l'évolution de la pauvreté en France, avec un focus régional et départemental | Power BI/Tableau, Storytelling, Statistiques | [Lien vers le dépôt du Projet Pauvreté](URL_DE_VOTRE_DEPO_GITHUB_PAUVRETE) |
 
 ***
