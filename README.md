@@ -63,7 +63,8 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
-| **Pauvreté en France** | [cite_start]Création d'un tableau de bord interactif pour suivre l'évolution de la pauvreté en France, avec un focus régional et départemental[cite: 48, 49]. | Power BI/Tableau, Storytelling, Statistiques | [Lien vers le dépôt du Projet Pauvreté](URL_DE_VOTRE_DEPO_GITHUB_PAUVRETE) |
+| **Etude Netflix** | Analyse des comportements des utilisateurs Netflix | [https://colab.research.google.com/drive/1i9xw1_TFlopdLrLWujx0VTn3wwfWgw-T#scrollTo=wyWZgqGOpWRr]|
+| **Pauvreté en France** | Création d'un tableau de bord interactif pour suivre l'évolution de la pauvreté en France, avec un focus régional et départemental | Power BI/Tableau, Storytelling, Statistiques | [Lien vers le dépôt du Projet Pauvreté](URL_DE_VOTRE_DEPO_GITHUB_PAUVRETE) |
 
 ***
 
