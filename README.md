@@ -56,7 +56,7 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
 | **Modélisation Climatique** | Participation à l'Hackathon ENSAR (2025) et Modélisation des impacts climatiques. [cite_start]**2ᵉ place sur 16 équipes**[cite: 45, 46]. | Modélisation, Python/R, Statistiques | [Lien vers le dépôt du Projet Hackathon](URL_DE_VOTRE_DEPO_GITHUB_HACKATHON) |
-| **Actuariat (Risques de Survie)** | [cite_start]Application de la méthode de **Kaplan-Meier** et mise en place de Modèles de risques proportionnels de **Cox** (pour l'identification de facteurs explicatifs)[cite: 40, 41]. | R/Python, Modélisation Actuarielle | [Lien vers le dépôt du Projet Cox/Kaplan-Meier](URL_DE_VOTRE_DEPO_GITHUB_SURVIE) |
+| **Actuariat (Frequences des sinistres)** | Modélisation de la frequence des sinistres (Tarification) | R/Python, Modélisation Actuarielle | [Lien vers le dépôt du Projet Actuariat](https://colab.research.google.com/drive/1kCdmj-WlpAkV7EmxOHiYx-kC9m6jhaGn) |
 | **Analyse Foncière** | Analyse, évolution et modélisation de la valeur foncière d'un bien immobilier (région sud-ouest). [cite_start]Étude pilotée par Covéa[cite: 51, 52]. | Modélisation, Statistique, R/Python | [Lien vers le dépôt du Projet Covéa](URL_DE_VOTRE_DEPO_GITHUB_VALEUR_FONCIERE) |
 
 ### 3. Visualisation de Données Publiques
@@ -65,7 +65,6 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 | :--- | :--- | :--- | :--- |
 | **Etude Netflix** | Analyse des comportements des utilisateurs Netflix | Python, Statistique | [Lien vers le dépôt du Projet Netflix](https://colab.research.google.com/drive/1i9xw1_TFlopdLrLWujx0VTn3wwfWgw-T) |
 | **Etude de ventes des Jeux video** | Analyse des ventes des jeux videos | Python, Statistique | [Lien vers le dépôt du Projet de ventes des jeux videos](https://colab.research.google.com/drive/1Btqg8ypQS9P1a7LUTcpP5NLQEuu162jT)|
-| **Pauvreté en France** | Création d'un tableau de bord interactif pour suivre l'évolution de la pauvreté en France, avec un focus régional et départemental | Power BI/Tableau, Storytelling, Statistiques | [Lien vers le dépôt du Projet Pauvreté](URL_DE_VOTRE_DEPO_GITHUB_PAUVRETE) |
 
 ***
 
