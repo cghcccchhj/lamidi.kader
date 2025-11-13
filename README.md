@@ -2,13 +2,13 @@
 
 ## 🚀 Data Analyst | BI Engineer | Python | SQL | Alteryx | SAS
 
-[cite_start]En tant que **Data Analyst** et **BI Engineer** [cite: 29][cite_start], je combine une solide expertise en analyse de données et des compétences techniques approfondies[cite: 30]. [cite_start]Fort de mon expérience en alternance de deux ans [cite: 30][cite_start], je maîtrise l'extraction, la transformation des données, la modélisation et la création de solutions de Business Intelligence, en ayant une vision globale des enjeux des projets data[cite: 31].
+En tant que **Data Analyst** et **BI Engineer** [cite: 29][cite_start], je combine une solide expertise en analyse de données et des compétences techniques approfondies[cite: 30]. [cite_start]Fort de mon expérience en alternance de deux ans [cite: 30][cite_start], je maîtrise l'extraction, la transformation des données, la modélisation et la création de solutions de Business Intelligence, en ayant une vision globale des enjeux des projets data[cite: 31].
 
 ### Compétences Clés :
 
 | Catégorie | Outils Maîtrisés |
 | :--- | :--- |
-| **Langages** | [cite_start]**SQL** [cite: 7][cite_start], **Python** (Pandas, NumPy) [cite: 7][cite_start], **SAS** [cite: 7][cite_start], R [cite: 7][cite_start], C++ [cite: 7] |
+| **Langages** | **SQL**, **Python** (Pandas, NumPy), **SAS**, R, C++ |
 | **BI & Visualisation** | [cite_start]**Power BI** [cite: 11] [cite_start](avec DAX [cite: 36][cite_start]), **Tableau** [cite: 11] |
 | **Data Eng. / ETL** | [cite_start]**Alteryx** [cite: 9][cite_start], Talend [cite: 9][cite_start], Bigquery [cite: 7][cite_start], Power Query [cite: 9] |
 | **Statistiques & ML**| [cite_start]Régression, Clustering, Classification [cite: 13][cite_start], Apprentissage automatique & Supervisé [cite: 14] |
