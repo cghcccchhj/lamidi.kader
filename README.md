@@ -57,7 +57,7 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 | :--- | :--- | :--- | :--- |
 | **Modélisation Climatique** | Participation à l'Hackathon ENSAR (2025) et Modélisation des impacts climatiques. [cite_start]**2ᵉ place sur 16 équipes**[cite: 45, 46]. | Modélisation, Python/R, Statistiques | [Lien vers le dépôt du Projet Hackathon](URL_DE_VOTRE_DEPO_GITHUB_HACKATHON) |
 | **Actuariat (Frequences des sinistres)** | Modélisation de la frequence des sinistres (Tarification) | R/Python, Modélisation Actuarielle | [Lien vers le dépôt du Projet Actuariat](https://colab.research.google.com/drive/1kCdmj-WlpAkV7EmxOHiYx-kC9m6jhaGn) |
-| **Analyse Foncière** | Analyse, évolution et modélisation de la valeur foncière d'un bien immobilier (région sud-ouest). [cite_start]Étude pilotée par Covéa[cite: 51, 52]. | Modélisation, Statistique, R/Python | [Lien vers le dépôt du Projet Covéa](URL_DE_VOTRE_DEPO_GITHUB_VALEUR_FONCIERE) |
+| **Analyse Foncière** | Analyse, évolution et modélisation de la valeur foncière d'un bien immobilier (région sud-ouest). [cite_start]Étude pilotée par Covéa[cite: 51, 52]. | Modélisation, Statistique, R/Python | [Lien vers le dépôt du Projet Covéa](https://colab.research.google.com/drive/1GJlZc6cApI1pWGJ-huD0yELnWPjdpwBu) |
 
 ### 3. Visualisation de Données Publiques
 
