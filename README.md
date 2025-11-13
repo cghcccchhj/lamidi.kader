@@ -55,7 +55,6 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
-| **Modélisation Climatique** | Participation à l'Hackathon ENSAR (2025) et Modélisation des impacts climatiques. [cite_start]**2ᵉ place sur 16 équipes**[cite: 45, 46]. | Modélisation, Python/R, Statistiques | [Lien vers le dépôt du Projet Hackathon](URL_DE_VOTRE_DEPO_GITHUB_HACKATHON) |
 | **Actuariat (Frequences des sinistres)** | Modélisation de la frequence des sinistres (Tarification) | R/Python, Modélisation Actuarielle | [Lien vers le dépôt du Projet Actuariat](https://colab.research.google.com/drive/1kCdmj-WlpAkV7EmxOHiYx-kC9m6jhaGn) |
 | **Analyse Foncière** | Analyse, évolution et modélisation de la valeur foncière d'un bien immobilier  | Modélisation, Statistique, R/Python | [Lien vers le dépôt du Projet Covéa](https://colab.research.google.com/drive/1GJlZc6cApI1pWGJ-huD0yELnWPjdpwBu) |
 
