@@ -44,12 +44,12 @@ autonomie qu'en collaboration avec des équipes pluridisciplinaires.
 
 Voici quelques-uns des projets (professionnels et académiques) qui démontrent mon expertise sur l'ensemble du cycle de vie de la donnée :
 
-### 1. Business Intelligence & Migration Data (Caisse d'Épargne)
+### 1. Data Analyst|Engineer BI & Migration Data (Caisse d'Épargne)
 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
-| **PNB & Reporting** | [cite_start]Développement d'un moteur de calcul du PNB sous **Power BI** [cite: 36] [cite_start]et création de tableaux de bord interactifs pour le suivi par marché et par client. | Power BI, DAX, SQL, Python | [Lien vers le dépôt du Projet PNB](URL_DE_VOTRE_DEPO_GITHUB_PNB) |
-| **ETL & Transformation** | [cite_start]Migration de projets SAS Guide vers la plateforme **Alteryx** [cite: 34] [cite_start]et consolidation des données (Alteryx, SQL, Power Query)[cite: 36]. | Alteryx, SAS, SQL, Power Query | [Lien vers le dépôt du Projet Migration Alteryx](URL_DE_VOTRE_DEPO_GITHUB_ALTERYX) |
+| **PNB & Reporting** | Développement d'un moteur de calcul du PNB sous **Power BI** et création de tableaux de bord interactifs pour le suivi par marché et par client. | Power BI, DAX, SQL, Python | [Lien vers le Projet PNB: Données sensibles ](URL_DE_VOTRE_DEPO_GITHUB_PNB) |
+| **ETL & Transformation** | Migration de projets SAS Guide vers la plateforme **Alteryx** et consolidation des données (Alteryx, SQL, Power Query) | Alteryx, SAS, SQL, Power Query | [Lien vers le dépôt du Projet Migration Alteryx : Données sensibles ](URL_DE_VOTRE_DEPO_GITHUB_ALTERYX) |
 
 ### 2. Projets de Modélisation Statistique & Actuarielle
 
