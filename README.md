@@ -48,7 +48,7 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
-| **PNB & Reporting** | Développement d'un moteur de calcul du PNB sous **Power BI** et création de tableaux de bord interactifs pour le suivi par marché et par client. | Power BI, DAX, SQL, Python | [Lien vers le Projet PNB: Données sensibles ](URL_DE_VOTRE_DEPO_GITHUB_PNB) |
+| **PNB & Reporting** | Développement d'un moteur de calcul du PNB sous **Power BI** et création de tableaux de bord interactifs pour le suivi par marché et par client. | Power BI, DAX, SQL, Python |  Données sensibles  |
 | **ETL & Transformation** | Migration de projets SAS Guide vers la plateforme **Alteryx** et consolidation des données (Alteryx, SQL, Power Query) | Alteryx, SAS, SQL, Power Query | [Lien vers le dépôt du Projet Migration Alteryx : Données sensibles ](URL_DE_VOTRE_DEPO_GITHUB_ALTERYX) |
 
 ### 2. Projets de Modélisation Statistique & Actuarielle
