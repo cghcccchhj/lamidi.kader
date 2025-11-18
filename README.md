@@ -56,14 +56,14 @@ Voici quelques-uns des projets (professionnels et académiques) qui démontrent 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
 | **Actuariat (Frequences des sinistres)** | Modélisation de la frequence des sinistres (Tarification) | R/Python, Modélisation Actuarielle | [Lien vers le dépôt du Projet Actuariat](https://colab.research.google.com/drive/1kCdmj-WlpAkV7EmxOHiYx-kC9m6jhaGn) |
-| **Analyse Foncière** | Analyse, évolution et modélisation de la valeur foncière d'un bien immobilier  | Modélisation, Statistique, R/Python | [Lien vers le dépôt du Projet Covéa](https://colab.research.google.com/drive/1GJlZc6cApI1pWGJ-huD0yELnWPjdpwBu) |
+| **Analyse Foncière** | Analyse, évolution et modélisation de la valeur foncière d'un bien immobilier  | Modélisation, Statistique, R/Python | [Lien vers le dépôt du Projet de l'analyse Foncière ](https://colab.research.google.com/drive/1GJlZc6cApI1pWGJ-huD0yELnWPjdpwBu) |
 
 ### 3. Visualisation de Données Publiques
 
 | Domaine | Description | Compétences | Lien vers le Résumé |
 | :--- | :--- | :--- | :--- |
 | **Etude Netflix** | Analyse des comportements des utilisateurs Netflix | Python, Statistique | [Lien vers le dépôt du Projet Netflix](https://colab.research.google.com/drive/1i9xw1_TFlopdLrLWujx0VTn3wwfWgw-T) |
-| **Etude de ventes des Jeux video** | Analyse des ventes des jeux videos | Python, Statistique | [Lien vers le dépôt du Projet de ventes des jeux videos](https://colab.research.google.com/drive/1Btqg8ypQS9P1a7LUTcpP5NLQEuu162jT)|
+| **Etude de ventes des Jeux videos** | Analyse des ventes des jeux videos | Python, Statistique | [Lien vers le dépôt du Projet de ventes des jeux videos](https://colab.research.google.com/drive/1Btqg8ypQS9P1a7LUTcpP5NLQEuu162jT)|
 
 ***
 
